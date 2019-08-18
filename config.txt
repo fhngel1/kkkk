@@ -1,4 +1,4 @@
-token=NTQ2MDEzOTEyMDU1OTM5MDgz.XVixig.OfUyAvRXBvVMdBebKlffLbQBCfc
+token= NTQ2MDEzOTEyMDU1OTM5MDgz.XVixig.OfUyAvRXBvVMdBebKlffLbQBCfc
 owner=604626078476140554
 prefix= A
 
